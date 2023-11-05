@@ -1,0 +1,22 @@
+#ifall det inte funkar att köra och man får error i stil med "":r command not found"
+#https://unix.stackexchange.com/questions/391223/why-am-i-getting-line-1-r-command-not-found
+#man behöver typ byta ut new line symboler
+
+echo "running script ..."
+
+cd gf
+
+for i in *.gf
+do 
+    touch "$i"
+done
+
+gf -make "BoroughsEng.gf" "BoroughsSwe.gf" "BoroughsGer.gf" #Lägg till alla språk som används
+
+cd ../python
+
+python3.8 updatetables.py > ../data/output.tsv
+
+python3.8 boroughs.py > ../data/res.txt
+
+echo "... script done"

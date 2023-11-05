@@ -1,0 +1,265 @@
+http://www.wikidata.org/entity/Q2385879	burkslav	sidecar passenger
+http://www.wikidata.org/entity/Q42296496	medaljgravör	medal engraver
+http://www.wikidata.org/entity/Q61875042	adapterare	adapter
+http://www.wikidata.org/entity/Q38218963	kavalleriofficer	cavalry officer
+http://www.wikidata.org/entity/Q25123845	mikropaleontolog	micropaleontologist
+http://www.wikidata.org/entity/Q10497414	folkhögskollärare	folk high school teacher
+http://www.wikidata.org/entity/Q101444555	kinesisklärare	Chinese teacher
+http://www.wikidata.org/entity/Q65589110	rehabiliteringspsykolog	Rehabilitation psychologist
+http://www.wikidata.org/entity/Q54086658	radaroperatör	radar operator
+http://www.wikidata.org/entity/Q27472738	omslagsillustratör	cover artist
+http://www.wikidata.org/entity/Q3476620	tevespelsförfattare	video game writer
+http://www.wikidata.org/entity/Q2961411	slavjägare	slave hunter
+http://www.wikidata.org/entity/Q6764301	tränare av vattenlevande däggdjur	marine mammal trainer
+http://www.wikidata.org/entity/Q10655125	riksbibliotekarie	National librarian of Sweden
+http://www.wikidata.org/entity/Q1172458	muhaddith	muhaddith
+http://www.wikidata.org/entity/Q25450986	kyrkobyggare	church builder
+http://www.wikidata.org/entity/Q105192736	farmaceut	pharmaceutical technician
+http://www.wikidata.org/entity/Q104659813	dataingenjör	data engineer
+http://www.wikidata.org/entity/Q7927905	klippare	video editor
+http://www.wikidata.org/entity/Q7777541	teaterutövare	theatre practitioner
+http://www.wikidata.org/entity/Q2625039	Opritjnik	Oprichnik
+http://www.wikidata.org/entity/Q7371914	roddarmadam	Rower woman
+http://www.wikidata.org/entity/Q96209373	kronobiolog	chronobiologist
+http://www.wikidata.org/entity/Q29909337	experimentell fysiker	experimental physicist
+http://www.wikidata.org/entity/Q55959737	coverartist	cover artist
+http://www.wikidata.org/entity/Q13365916	fångvaktare	prison warden
+http://www.wikidata.org/entity/Q38239859	arméofficer	army officer
+http://www.wikidata.org/entity/Q55594106	rallycrossförare	rallycross driver
+http://www.wikidata.org/entity/Q17156912	malariolog	malariologist
+http://www.wikidata.org/entity/Q7247815	originalare	production artist
+http://www.wikidata.org/entity/Q20917887	styrelseproffs	board professional
+http://www.wikidata.org/entity/Q107368053	auktoriserad översättare	authorised translator
+http://www.wikidata.org/entity/Q98831293	ångbåtskommissionär	steamboat agent
+http://www.wikidata.org/entity/Q71116296	kemist, oorganisk kemi	inorganic chemist
+http://www.wikidata.org/entity/Q1328668	gravyridol	gravure idol
+http://www.wikidata.org/entity/Q2994358	lantbrukskonsulent	agricultural adviser
+http://www.wikidata.org/entity/Q6306168	Agrolog	agrologist
+http://www.wikidata.org/entity/Q61974554	bordshockeyspelare	table hockey player
+http://www.wikidata.org/entity/Q26219487	terränglöpare	cross country runner
+http://www.wikidata.org/entity/Q10549958	kulturarbetare	professional in the arts industry
+http://www.wikidata.org/entity/Q10687768	systemägare	system owner
+http://www.wikidata.org/entity/Q98073294	issportutövare	ice sport practitioner
+http://www.wikidata.org/entity/Q4992409	politisk redaktör	political editor
+http://www.wikidata.org/entity/Q11889910	plåtslagare	sheet metal worker
+http://www.wikidata.org/entity/Q6038504	inspektor	inspektor
+http://www.wikidata.org/entity/Q45176736	kvinnohistoriker	historian of women
+http://www.wikidata.org/entity/Q41799124	cerealkemist	cereal chemist
+http://www.wikidata.org/entity/Q20891597	kolonisatör	colonizer
+http://www.wikidata.org/entity/Q15479268	Notarius publicus	notary public
+http://www.wikidata.org/entity/Q924581	specialistsjuksköterska	clinical nurse specialist
+http://www.wikidata.org/entity/Q107714046	estradpoet	performance poet
+http://www.wikidata.org/entity/Q101445630	fysiklärare	physics teacher
+http://www.wikidata.org/entity/Q2091370	kamrer	senior accountant
+http://www.wikidata.org/entity/Q106412808	ekonomiredaktör	business journalist
+http://www.wikidata.org/entity/Q5362501	materialförvaltare	equipment manager
+http://www.wikidata.org/entity/Q27214348	inspektör	inspector
+http://www.wikidata.org/entity/Q15407654	lekman	layperson
+http://www.wikidata.org/entity/Q5420718	exotisk dansare	exotic dancer
+http://www.wikidata.org/entity/Q3401082	krigspoet	war poet
+http://www.wikidata.org/entity/Q110725834	Trafikledare	Traffic controller
+http://www.wikidata.org/entity/Q107805346	filosofisk praktiker	philosophical counselor
+http://www.wikidata.org/entity/Q3247461	ambulansförare	ambulance driver
+http://www.wikidata.org/entity/Q29514511	sammanställare	compiler
+http://www.wikidata.org/entity/Q11518629	trävaruhandlare	timber merchant
+http://www.wikidata.org/entity/Q20914646	banmästare	trackmaster
+http://www.wikidata.org/entity/Q4405230	auskultant	student teacher
+http://www.wikidata.org/entity/Q1446529	Eskorbuto	Eskorbuto
+http://www.wikidata.org/entity/Q4118782	Amah	Amah
+http://www.wikidata.org/entity/Q56285767	dataingenjör	computer engineer
+http://www.wikidata.org/entity/Q19788990	professorstiteln i Sverige	professor in Sweden
+http://www.wikidata.org/entity/Q7663860	systemarkitekt	systems architect
+http://www.wikidata.org/entity/Q19588578	experimentalmusiker	experimental musician
+http://www.wikidata.org/entity/Q8037570	hästkarl	wrangler
+http://www.wikidata.org/entity/Q10531619	häradsskrivare	häradsskrivare
+http://www.wikidata.org/entity/Q11858232	specialmedarbetare	Special Adviser
+http://www.wikidata.org/entity/Q17379560	imitation	impersonator
+http://www.wikidata.org/entity/Q64485042	existentiell terapeut	existential therapist
+http://www.wikidata.org/entity/Q10423417	Automationsingenjör	automation engineer
+http://www.wikidata.org/entity/Q5407416	rörmontör	pipefitter
+http://www.wikidata.org/entity/Q3434088	turnéläggare	road manager
+http://www.wikidata.org/entity/Q10651584	revyförfattare	revue writer
+http://www.wikidata.org/entity/Q79199669	kontrollör	kontrollör
+http://www.wikidata.org/entity/Q595071	specialistsjuksköterska	nurse practitioner
+http://www.wikidata.org/entity/Q17378128	spoken word-poet	spoken word artist
+http://www.wikidata.org/entity/Q3997173	Aktiehandel	stock trader
+http://www.wikidata.org/entity/Q105748930	Formel 3-förare	Formula Three driver
+http://www.wikidata.org/entity/Q26256962	bluffläkare	scam doctor
+http://www.wikidata.org/entity/Q7560960	marknadsförare	Song-plugger
+http://www.wikidata.org/entity/Q5689489	huvudförfattare	head writer
+http://www.wikidata.org/entity/Q110278863	logoterapeut	logotherapist
+http://www.wikidata.org/entity/Q48975839	vapenkonstruktör	firearms designer
+http://www.wikidata.org/entity/Q2462215	nazistjägare	Nazis hunter
+http://www.wikidata.org/entity/Q100869331	symaskinreparatör	sewing machine repair personel
+http://www.wikidata.org/entity/Q2447349	ornamentist	ornamentist
+http://www.wikidata.org/entity/Q10430159	bisättare	funeral hearse driver
+http://www.wikidata.org/entity/Q11886559	brandvakt	city fire watch
+http://www.wikidata.org/entity/Q16429421	växtfärgning	plant dyeing
+http://www.wikidata.org/entity/Q60823129	Stödassistent	Stödassistent
+http://www.wikidata.org/entity/Q3488528	notarietjänstgöring	lawyer's clerk
+http://www.wikidata.org/entity/Q63676514	pedagog (forskare)	educationalist
+http://www.wikidata.org/entity/Q16323507	faktor (yrken)	print shop foreperson
+http://www.wikidata.org/entity/Q19801630	gendarm	gendarme
+http://www.wikidata.org/entity/Q73438410	dōjin-tecknare	doujin artist
+http://www.wikidata.org/entity/Q65124861	yrkesinspektör	labour inspector
+http://www.wikidata.org/entity/Q76244949	Kira	Kira
+http://www.wikidata.org/entity/Q78152520	jojkare	yoiker
+http://www.wikidata.org/entity/Q5194294	De kloka	cunning folk
+http://www.wikidata.org/entity/Q11500768	matskribent	food writer
+http://www.wikidata.org/entity/Q38079409	shintyspelare	shinty player
+http://www.wikidata.org/entity/Q47090899	museiman	museum professional
+http://www.wikidata.org/entity/Q10556315	ledsagare	guide
+http://www.wikidata.org/entity/Q110250037	jakt- och fiskeövervakare	Game and Fisheries Warden
+http://www.wikidata.org/entity/Q65697958	inlinehockeyspelare	inline hockey player
+http://www.wikidata.org/entity/Q1779946	rallare	Navvy
+http://www.wikidata.org/entity/Q47005195	träsnidare	träsnidare
+http://www.wikidata.org/entity/Q6469874	Sällskapsdam	lady's companion
+http://www.wikidata.org/entity/Q4287237	faleristiker	phalerist
+http://www.wikidata.org/entity/Q70597531	luftskeppspilot	airship pilot
+http://www.wikidata.org/entity/Q26214567	tågvärdinna	train hostess
+http://www.wikidata.org/entity/Q12337193	flygvärdinna	stewardess
+http://www.wikidata.org/entity/Q56249301	fiskodlare	pisciculturist
+http://www.wikidata.org/entity/Q59716278	padelspelare	padel player
+http://www.wikidata.org/entity/Q66288471	transaktivist	trans activist
+http://www.wikidata.org/entity/Q6094740	Vandrarpredikant	itinerant minister
+http://www.wikidata.org/entity/Q2011889	bordellmamma	madam
+http://www.wikidata.org/entity/Q3566741	spårvagnsförare	motorman
+http://www.wikidata.org/entity/Q66382950	kvinnlig porrfilmsskådespelare	female pornographic actor
+http://www.wikidata.org/entity/Q106671598	skämttecknare	gag cartoonist
+http://www.wikidata.org/entity/Q3594060	styrelseordförande	chairman of the board
+http://www.wikidata.org/entity/Q63536580	datorspelskompositör	video game composerhttp://www.wikidata.org/entity/Q28054240	spelare av handpelota	hand-pelota player
+http://www.wikidata.org/entity/Q64351975	tapetmakare	tapestry maker
+http://www.wikidata.org/entity/Q106641572	satirtecknare	satire artist
+http://www.wikidata.org/entity/Q7281291	radiooperatör	radioman
+http://www.wikidata.org/entity/Q13472752	betjänt	valet
+http://www.wikidata.org/entity/Q72398227	datorspelshistoriker	video game historian
+http://www.wikidata.org/entity/Q100700933	kvantitativ ekolog	quantitative ecologist
+http://www.wikidata.org/entity/Q47494964	miniatyrist	miniaturist
+http://www.wikidata.org/entity/Q7016454	mediekonstnär	new media artist
+http://www.wikidata.org/entity/Q11871806	timmerman	carpenter
+http://www.wikidata.org/entity/Q11613590	teaterdekoratör	theatre designer
+http://www.wikidata.org/entity/Q15037346	narr	jester
+http://www.wikidata.org/entity/Q10855106	värderingsman	appraiser
+http://www.wikidata.org/entity/Q48930480	filosofilärare	philosophy teacher
+http://www.wikidata.org/entity/Q59221793	lanthandlare	general dealer
+http://www.wikidata.org/entity/Q111307973	videoessäist	video essayist
+http://www.wikidata.org/entity/Q16270720	teoretisk biolog	theoretical biologist
+http://www.wikidata.org/entity/Q20920693	chef	chief
+http://www.wikidata.org/entity/Q58841163	paralympier	Paralympic competitor
+http://www.wikidata.org/entity/Q70380618	underhållare för barn	children's entertainer
+http://www.wikidata.org/entity/Q11251722	sonograf	sonographer
+http://www.wikidata.org/entity/Q20751891	brasiliansk jiu-jitsu-utövare	Brazilian jiu-jitsu practitioner
+http://www.wikidata.org/entity/Q11888915	provisor	Pharmacist (M.Sc. in pharmasy)
+http://www.wikidata.org/entity/Q10547536	koncernchef	corporate manager
+http://www.wikidata.org/entity/Q86629158	landhockeytränare	field hockey coach
+http://www.wikidata.org/entity/Q101540627	svensklärare	Swedish teacher
+http://www.wikidata.org/entity/Q106089446	spegelmakare	mirror maker
+http://www.wikidata.org/entity/Q66357406	kyrkoorganist	church organist
+http://www.wikidata.org/entity/Q6884071	mixer	mixing engineer
+http://www.wikidata.org/entity/Q57242717	kantelespelare	kantele player
+http://www.wikidata.org/entity/Q87646528	tillverkare av huvudbonader	headdress maker
+http://www.wikidata.org/entity/Q9355558	film ackompanjatör	film accompanist
+http://www.wikidata.org/entity/Q28364495	yrke inom finans- eller affärsverksamhet	business or financial occupation
+http://www.wikidata.org/entity/Q47083093	trädgårdsarkitekt	garden architect
+http://www.wikidata.org/entity/Q100742049	konferenstalare	conference speaker
+http://www.wikidata.org/entity/Q21653400	make-up artist	Make-up artist
+http://www.wikidata.org/entity/Q51751308	curlingtränare	curling coach
+http://www.wikidata.org/entity/Q77958773	trädgårdskonsult	garden consultant
+http://www.wikidata.org/entity/Q7257684	Public Affairs Officer	public affairs
+http://www.wikidata.org/entity/Q30096463	addiktolog	addictologist
+http://www.wikidata.org/entity/Q3029403	reklamfilmsregissör	commercial director
+http://www.wikidata.org/entity/Q55092822	balettlärare	ballet teacher
+http://www.wikidata.org/entity/Q41202207	publikombud	audience ombudsman
+http://www.wikidata.org/entity/Q105349677	byggnadsinspektör	building inspector
+http://www.wikidata.org/entity/Q10611691	ornamentsbildhuggare	ornamental sculptor
+http://www.wikidata.org/entity/Q16678266	supporter	supporter
+http://www.wikidata.org/entity/Q26857871	överhovmästarinna	Chief Court Mistress
+http://www.wikidata.org/entity/Q7674959	taffeltäckare	Taffeltäckare
+http://www.wikidata.org/entity/Q70591255	digital strateg	digital strategist
+http://www.wikidata.org/entity/Q6418006	köksflicka	kitchen maid
+http://www.wikidata.org/entity/Q7697002	studioman	television floor manager
+http://www.wikidata.org/entity/Q5997995	ordningsvakt	Community Service Officer
+http://www.wikidata.org/entity/Q7309424	akademisekreterare	registrar
+http://www.wikidata.org/entity/Q7831495	friidrottsdomare	track and field official
+http://www.wikidata.org/entity/Q26233091	spelare av real tennis	real tennis player
+http://www.wikidata.org/entity/Q64356038	musikalkompositör	musical theatre composer
+http://www.wikidata.org/entity/Q108165883	astronomilärare	astronomy teacher
+http://www.wikidata.org/entity/Q98058553	kommunalanställd	municipal employee
+http://www.wikidata.org/entity/Q1416754	fritidsledare	youth worker
+http://www.wikidata.org/entity/Q101403460	Compliance officer	compliance officer
+http://www.wikidata.org/entity/Q71010874	flygvärd	male flight attendant
+http://www.wikidata.org/entity/Q109443465	travtränare	harness racehorse trainer
+http://www.wikidata.org/entity/Q106087309	Pipmakare	clay pipe maker
+http://www.wikidata.org/entity/Q45052431	lärdomshistoriker	historian of ideas
+http://www.wikidata.org/entity/Q60324605	telefonförsäljare	telemarketer
+http://www.wikidata.org/entity/Q15941595	sportkolumnist	sports columnist
+http://www.wikidata.org/entity/Q10677791	Statsfru	Statsfru
+http://www.wikidata.org/entity/Q27554843	säckpipetillverkare	bagpipe maker
+http://www.wikidata.org/entity/Q7094114	webbproducent	online producer
+http://www.wikidata.org/entity/Q5372393	komminister	co-minister
+http://www.wikidata.org/entity/Q10607873	offentligt biträde	Public counsil
+http://www.wikidata.org/entity/Q42308474	biträdande intendent	assistant curator
+http://www.wikidata.org/entity/Q16321429	temästare	tea master
+http://www.wikidata.org/entity/Q13432011	Jisamuraj	jizamurai
+http://www.wikidata.org/entity/Q97820270	helbrägdagörare	faith healer
+http://www.wikidata.org/entity/Q98406729	formel 2-förare	Formula Two driver
+http://www.wikidata.org/entity/Q7643464	skoldirektör	school superintendent
+http://www.wikidata.org/entity/Q1209526	superstjärna	superstar
+http://www.wikidata.org/entity/Q28091587	maltmakare	maltster
+http://www.wikidata.org/entity/Q8070591	landskapsgestaltning	landscaping
+http://www.wikidata.org/entity/Q97016322	matematisk statistiker	mathematical statistician
+http://www.wikidata.org/entity/Q38370550	militärpatrullutövare	military patrol (sport) runner
+http://www.wikidata.org/entity/Q11897839	verksamhetsledare	organization leader
+http://www.wikidata.org/entity/Q63243629	speedwayförare	speedway rider
+http://www.wikidata.org/entity/Q28948863	järnvägsbyggare	rail planner
+http://www.wikidata.org/entity/Q10550533	kurator	social worker
+http://www.wikidata.org/entity/Q22269196	professionell boxare	professional boxer
+http://www.wikidata.org/entity/Q2396920	lovsångsledare	worship leader
+http://www.wikidata.org/entity/Q10432025	boendestöd	Housing Support
+http://www.wikidata.org/entity/Q90781631	datajournalist	data journalist
+http://www.wikidata.org/entity/Q14556953	färskvattenbiolog	freshwater biologist
+http://www.wikidata.org/entity/Q30349940	industriledare	industrial leader
+http://www.wikidata.org/entity/Q109833723	personaladministratör	personnel administrator
+http://www.wikidata.org/entity/Q5403257	personlig assistent	personal assistant
+http://www.wikidata.org/entity/Q12344332	ekonom	business graduate
+http://www.wikidata.org/entity/Q28344495	datasäkerhetskonsult	computer security consultant
+http://www.wikidata.org/entity/Q28790199	defektolog	defectologist
+http://www.wikidata.org/entity/Q20918760	skolgångsbiträde	special needs assistant
+http://www.wikidata.org/entity/Q33026583	urkundsutgivare	public record publisher
+http://www.wikidata.org/entity/Q71134636	ortoped	orthopedian
+http://www.wikidata.org/entity/Q98713221	bangolfspelare	minigolf player
+http://www.wikidata.org/entity/Q11853079	montör	assembler
+http://www.wikidata.org/entity/Q2672656	värnpliktig	conscript soldier
+http://www.wikidata.org/entity/Q18274570	kammarfröken	Maid of the Bedchamber
+http://www.wikidata.org/entity/Q4582125	receptarie	prescriptionist
+http://www.wikidata.org/entity/Q42903750	skolgrundare	School Founder
+http://www.wikidata.org/entity/Q97052946	Kompastor	Kompastor
+http://www.wikidata.org/entity/Q5160981	medarbetare i USA:s kongress	congressional staff
+http://www.wikidata.org/entity/Q16743936	ontolog	ontologist
+http://www.wikidata.org/entity/Q91083528	matematisk biolog	mathematical biologist
+http://www.wikidata.org/entity/Q3438766	häradshövding	chief district judge
+http://www.wikidata.org/entity/Q13188923	taikonaut	taikonaut
+http://www.wikidata.org/entity/Q66060370	skattebyråtjänsteman	tax officer
+http://www.wikidata.org/entity/Q3931989	låneregistrator	museum registrar
+http://www.wikidata.org/entity/Q64012031	radioskådespelare	radio actor
+http://www.wikidata.org/entity/Q16254337	siviløkonom	siviløkonom
+http://www.wikidata.org/entity/Q62017302	dövskolegrundare	deaf school founder
+http://www.wikidata.org/entity/Q6542711	biblioteksfunktionär	library technician
+http://www.wikidata.org/entity/Q19315421	inköpare	purchasing agent
+http://www.wikidata.org/entity/Q65290668	delfintränare	dolphin trainer
+http://www.wikidata.org/entity/Q56027752	underrättelseanalytiker	intelligence analyst
+http://www.wikidata.org/entity/Q37868118	läroboksförfattare	textbook writer
+http://www.wikidata.org/entity/Q109509684	äktenskapsrådgivare	marriage counselor
+http://www.wikidata.org/entity/Q10697333	thul	Thyle
+http://www.wikidata.org/entity/Q5583669	goodwillambassadör	goodwill ambassador
+http://www.wikidata.org/entity/Q30919568	fotomodell	photographic model
+http://www.wikidata.org/entity/Q39372574	protistolog	protistologist
+http://www.wikidata.org/entity/Q15707582	mannekäng	runway model
+http://www.wikidata.org/entity/Q64699668	terminolog	terminologist
+http://www.wikidata.org/entity/Q1185694	toastmaster	toastmaster
+http://www.wikidata.org/entity/Q59602173	längdskidåkningstränare	cross-country skiing coach
+http://www.wikidata.org/entity/Q4736389	försäkringsagent	ensurance agent
+http://www.wikidata.org/entity/Q54845077	rollspelsdesigner	role-playing game designer
+http://www.wikidata.org/entity/Q10474533	distriktsläkare	district doctor
+http://www.wikidata.org/entity/Q10535290	industriarbetare	manufacturing worker
+http://www.wikidata.org/entity/Q107966961	modersmålslärare	heritage language teacher

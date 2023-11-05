@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+</head>
+<body>
+    <div class="container">
+        <div class="left_col">
+            <input list="boroughs" id="selection">
+            <datalist id="boroughs">
+                {{borough_options}}
+            </datalist>
+            <input type="button" value="Go" onclick="go()">
+            <br>
+            {{map}}
+            {{weather}}
+        </div>
+        <div class="right_col">
+            <h1>{{title}}</h1>
+            {{img}}
+            {{body}}
+        </div>        
+    </div>
+</body>
+
+<script>
+    function go() {
+        let target = document.getElementById("selection").value;
+        var getUrl = window.location;
+        var baseUrl = getUrl.protocol + "//" + getUrl.host; // + "/" + getUrl.pathname.split('/')[1];
+        window.location.href = baseUrl + "/" + target;
+    }
+</script>
+
+<style>
+    img {
+        max-width: 100%;
+        border-radius: 0.5em;
+        max-height: 500px;
+    }
+    .right_col {
+        padding: 20px;
+        width: 65%;
+        float: right;
+        background-color: white;
+        border-radius: 0.5em;
+        background-color: #3B4252;
+    }
+    .left_col {
+        float: left;
+        width: 25%;
+        margin-right: 0;
+        background-color: #3B4252;
+        border-radius: 0.5em;
+        padding: 20px;
+    }
+    .container {
+        padding: 0;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        border-radius: 0.5em;
+    }
+    body {
+        background-color: #2E3440;
+        color: #D8DEE9;
+        box-sizing: border-box;
+    }
+</style>
+</html>
